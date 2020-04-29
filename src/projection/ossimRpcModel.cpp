@@ -34,7 +34,7 @@ RTTI_DEF1(ossimRpcModel, "ossimRpcModel", ossimSensorModel);
 #include <iomanip>
 #include <sstream>
 #include <ossim/projection/ossimProjectionFactoryRegistry.h>
-#include <json/json.h>
+#include <ossim/json/json.h>
 
 //***
 // Define Trace flags for use within this file:

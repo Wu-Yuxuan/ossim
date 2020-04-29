@@ -28,7 +28,7 @@
 #include <ossim/imaging/ossimImageHistogramSource.h>
 #include <ossim/ossimVersion.h>
 #include <ossim/util/ossimToolRegistry.h>
-#include <json/json.h>
+#include <ossim/json/json.h>
 #include <fstream>
 
 using namespace std;
